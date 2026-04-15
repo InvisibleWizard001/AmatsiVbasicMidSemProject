@@ -1,0 +1,17 @@
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\bin\Debug\net10.0-windows\Student Registration Portal.exe
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\bin\Debug\net10.0-windows\Student Registration Portal.deps.json
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\bin\Debug\net10.0-windows\Student Registration Portal.runtimeconfig.json
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\bin\Debug\net10.0-windows\Student Registration Portal.dll
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\bin\Debug\net10.0-windows\Student Registration Portal.pdb
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Admissions___Finance_Portal.Form1.resources
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Admissions___Finance_Portal.Resources.resources
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Student Registration Portal.vbproj.GenerateResource.cache
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Student Registration Portal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Student Registration Portal.AssemblyInfoInputs.cache
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Student Registration Portal.AssemblyInfo.vb
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Student Registration Portal.vbproj.CoreCompileInputs.cache
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Student Registration Portal.dll
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\refint\Student Registration Portal.dll
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Student Registration Portal.pdb
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Student Registration Portal.genruntimeconfig.cache
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\ref\Student Registration Portal.dll
